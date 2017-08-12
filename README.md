@@ -1,18 +1,18 @@
->Objective
+>**Objective: **
 Create an explanitory narrative around the sameple data
 
 
 
->Summary 
+>**Summary: **
 
 
 
->Design 
+>**Design: ** 
 
 
 
->Feedback
+>**Feedback: **
 
 
 
->Resources 
+>**Resources: **
